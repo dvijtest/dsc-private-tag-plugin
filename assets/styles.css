@@ -1,0 +1,9 @@
+.discourse_private_tag_plugin_hidden {
+	background-color:#ff000022;
+	text-align: center;
+	border-style: solid;
+    border-width: 1px;
+    border-color: red;
+    border-radius: 5px;
+    padding: 1em;
+}

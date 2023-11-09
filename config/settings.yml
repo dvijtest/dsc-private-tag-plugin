@@ -1,0 +1,10 @@
+plugins:
+  discourse_private_tag_plugin_enabled:
+    default: true
+    client: true
+  discourse_private_tag_plugin_forbidden_tags:
+    default: ""
+    client: true
+  discourse_private_tag_plugin_hidden_message:
+    default: "Sorry, posts in this topic are only visible to users that are logged in."
+    client: true
